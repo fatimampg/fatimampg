@@ -3,7 +3,7 @@
 **Curious and driven, I blend research and engineering experience with a passion for Web Development, tackling technical challenges and embracing creativity!**
 
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently improving my skills in Next.js, exploring SQLite and Drizzle ORM.
+- 🌱 I’m currently improving my skills in Python.
 - 📫 Feel free to send me a message through my [Portfolio Website](https://www.fgstack.site/)!
 
 ## Tech Stack
@@ -12,11 +12,13 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+
+![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat&logo=nextdotjs)
+
 ![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
 ![Redux](https://img.shields.io/badge/-Redux-%23764abc?style=flat&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat&logo=nextdotjs)
 ![Axios](https://img.shields.io/badge/axios.js-%23ECECEC?style=flat&logo=axios&logoColor=5A29E4)
-
 
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%23ECECEC?style=flat&logo=tailwind-css&logoColor=%2318BFFF)
@@ -24,9 +26,11 @@
 ![NextUI](https://img.shields.io/static/v1?style=flat&message=NextUI&color=000000&logo=NextUI&logoColor=FFFFFF&label=)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white)
 
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=flat&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
 
 ![Vitest](https://img.shields.io/badge/vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
