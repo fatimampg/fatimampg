@@ -1,12 +1,9 @@
-## Hi there! 👋
-
-**Curious and driven, I blend research and engineering experience with a passion for Web Development, tackling technical challenges and embracing creativity!**
-
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently improving my skills in Python.
-- 📫 Feel free to send me a message through my [Portfolio Website](https://www.fgstack.site/)!
-
 ## Tech Stack
+
+![Python](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff).
+
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
+![Docker](https://img.shields.io/badge/docker-257bd6?style=flat&logo=docker&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
 
@@ -37,10 +34,10 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 
-![Docker](https://img.shields.io/badge/docker-257bd6?style=flat&logo=docker&logoColor=white)
+
 
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat&logo=vite&logoColor=ffffff)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat&logo=eslint)
 ![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat&logo=prettier&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code)
+
+
